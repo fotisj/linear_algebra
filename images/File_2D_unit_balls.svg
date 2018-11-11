@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File:2D unit balls.svg - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:2D_unit_balls.svg","wgTitle":"2D unit balls.svg","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":"FJannidis","wgUserGroups":["*","user"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"File:2D_unit_balls.svg","wgRelevantArticleId":0,"wgRequestId":"Wg0tIApAICsAACQcL9AAAAAP","wgUserId":20888599,"wgUserEditCount":0,"wgUserRegistration":1393715139000,"wgUserNewMsgRevisionId":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionCreate":[],"wgRestrictionUpload":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgGlobalGroups":[],"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgEchoEventLoggingSchemas":{"EchoMail":{"enabled":true,"revision":5467650,"client":false},"EchoInteraction":{"enabled":true,"revision":15823738,"client":true},"Echo":{"enabled":false,"revision":7731316,"client":false}},"wgEchoEventLoggingVersion":"1.12","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["de","en-us","en"],"wgULSBabelLanguages":[],"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgNoticeUserData":{"registration":"20140301230539"},"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false,"wgEchoSeenTime":{"alert":"1970-01-01T00:00:01Z","notice":"1970-01-01T00:00:01Z"}});mw.loader.state({"ext.gadget.WatchlistBase":"ready","ext.gadget.WatchlistGreenIndicators":"ready","ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","filepage":"ready","mediawiki.action.view.filepage":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.echo.styles.badge":"ready","ext.echo.badgeicons":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@1hvpwrc",function($,jQuery,require,module){mw.user.options.set({"echo-subscriptions-email-edit-user-talk":1});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"49de277794e118337a330ce19cf111685a0d2d21+\\","patrolToken":"473b9ba5c426a122ca388c43a96b53775a0d2d21+\\","watchToken":"199761d4f1cc5296ebaad1d310faee235a0d2d21+\\","csrfToken":"49de277794e118337a330ce19cf111685a0d2d21+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.metadata","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.page.watch.ajax","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.formWizard","ext.gadget.geonotice","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin.clearcookie","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.init","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.loggedin","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.echo.badgeicons%7Cext.echo.styles.badge%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.view.filepage%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;maxage=1209600&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=1209600"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=user.styles&amp;only=styles&amp;skin=vector&amp;user=FJannidis&amp;version=0ufec3p"/>
+<meta name="generator" content="MediaWiki 1.31.0-wmf.7"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=File:2D_unit_balls.svg&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=File:2D_unit_balls.svg&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:2D_unit_balls.svg"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject page-File_2D_unit_balls_svg rootpage-File_2D_unit_balls_svg vector-nav-directionality skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+						<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-commons-icon" class="mw-indicator"><a href="https://commons.wikimedia.org/wiki/File:2D_unit_balls.svg" title="This is a file from the Wikimedia Commons"><img alt="This is a file from the Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/22px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">File:2D unit balls.svg</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage</a></li>
+<li><a href="#globalusage">Global file usage</a></li>
+<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="//upload.wikimedia.org/wikipedia/commons/0/00/2D_unit_balls.svg"><img alt="File:2D unit balls.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/800px-2D_unit_balls.svg.png" width="800" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/1200px-2D_unit_balls.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/1600px-2D_unit_balls.svg.png 2x" data-file-width="2250" data-file-height="300" /></a><div class="mw-filepage-resolutioninfo">Size of this PNG preview of this SVG file: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/800px-2D_unit_balls.svg.png" class="mw-thumbnail-link">800 × 107 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/320px-2D_unit_balls.svg.png" class="mw-thumbnail-link">320 × 43 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/640px-2D_unit_balls.svg.png" class="mw-thumbnail-link">640 × 85 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/1024px-2D_unit_balls.svg.png" class="mw-thumbnail-link">1,024 × 137 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/1280px-2D_unit_balls.svg.png" class="mw-thumbnail-link">1,280 × 171 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/2250px-2D_unit_balls.svg.png" class="mw-thumbnail-link">2,250 × 300 pixels</a>.</span></div></div>
+<div class="fullMedia"><a href="//upload.wikimedia.org/wikipedia/commons/0/00/2D_unit_balls.svg" class="internal" title="2D unit balls.svg">Original file</a> &#8206;<span class="fileInfo">(SVG file, nominally 2,250 × 300 pixels, file size: 92 KB)</span>
+</div>
+<div class="sharedUploadNotice">
+<table id="mw-sharedupload" class="plainlinks fmbox fmbox-system" role="presentation"><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" title="Wikimedia Commons logo" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td><td class="mbox-text" style="text-align: center;">This is a file from the <a href="https://commons.wikimedia.org/wiki/Main_Page" class="extiw" title="commons:Main Page">Wikimedia Commons</a>. Information from its <b><a href="https://commons.wikimedia.org/wiki/File:2D_unit_balls.svg" class="extiw" title="commons:File:2D unit balls.svg">description page there</a></b> is shown below.<br/><span style="font-size: smaller;">Commons is a freely licensed media file repository. <a href="https://commons.wikimedia.org/wiki/Commons:Welcome" class="extiw" title="commons:Commons:Welcome">You can help</a>.</span></td></tr></table>
+</div>
+<div id="shared-image-desc"><div class="mw-parser-output"><h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//commons.wikimedia.org/w/index.php?title=File:2D_unit_balls.svg&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
+<tr style="vertical-align: top">
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">2D unit balls.svg</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en" style=""><span class="language en" title=""><b>English:</b></span> Unit circles in the two-dimensional <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>&#x2113;<!-- ℓ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \ell ^{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f9c352341ab7260ca1a9004da44c897d1395203c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.047ex; height:2.343ex;" alt="{\displaystyle \ell ^{p}}" /></span> space for various values of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" >
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:1.259ex; height:2.009ex;" alt="{\displaystyle p}" /></span>.
+<p>Some special cases:</p>
+<ul>
+<li>When p = 2/3 (0.666...), its shape coincides with an <a href="//commons.wikimedia.org/wiki/Category:Regular_astroid" title="Category:Regular astroid">astroid</a></li>
+<li>When p = 1, it represents the <a href="//commons.wikimedia.org/wiki/Category:Taxicab_distance" title="Category:Taxicab distance">Manhattan distance</a></li>
+<li>When p = 2, it represents the <a href="//commons.wikimedia.org/wiki/Category:Euclidean_distance" title="Category:Euclidean distance">Euclidean distance</a></li>
+<li>When p = 4, its shape coincides with a <a href="//commons.wikimedia.org/wiki/Category:Squircle" title="Category:Squircle">squircle</a></li>
+<li>When p = ∞, it represents the <a href="//commons.wikimedia.org/wiki/Category:Chebyshev_distance" title="Category:Chebyshev distance">Chebyshev distance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="en">Date</td>
+<td lang="en"><span style="white-space:nowrap"><time class="dtstart" datetime="2014-03-21 06:47:40">21 March 2014, 06:47:40</time></span></td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
+<td>Based on <a href="//commons.wikimedia.org/wiki/File:MinkowskiCircles.svg" title="File:MinkowskiCircles.svg">File:MinkowskiCircles.svg</a></td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
+<td><a href="//commons.wikimedia.org/wiki/User:Waldir" title="User:Waldir">Waldir</a></td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="Licensing">Licensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//commons.wikimedia.org/w/index.php?title=File:2D_unit_balls.svg&amp;action=edit&amp;section=2" title="Edit section: Licensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table cellspacing="8" cellpadding="0" style="clear:both; margin:0.5em auto; background-color:#f0f0f0; border:2px solid #e0e0e0; direction: ltr;" class="licensetpl_wrapper">
+<tr>
+<td>
+<div class="center"><b><span lang="en" class="description en">I, the copyright holder of this work, hereby publish it under the following license:</span></b></div>
+<table style="width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;" class="layouttemplate licensetpl mw-content-ltr" lang="en">
+<tr>
+<td style="width:90px;" rowspan="3"><img alt="w:en:Creative Commons" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png" title="w:en:Creative Commons" width="90" height="36" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x" data-file-width="744" data-file-height="300" /><br />
+<img alt="attribution" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png" title="attribution" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x" data-file-width="64" data-file-height="64" /> <img alt="share alike" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png" title="share alike" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x" data-file-width="64" data-file-height="64" /></td>
+<td lang="en">This file is licensed under the <a href="https://en.wikipedia.org/wiki/en:Creative_Commons" class="extiw" title="w:en:Creative Commons">Creative Commons</a> <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/3.0/deed.en">Attribution-Share Alike 3.0 Unported</a> license.</td>
+<td style="width:90px;" rowspan="3"></td>
+</tr>
+<tr style="text-align:center;">
+<td></td>
+</tr>
+<tr style="text-align:left;" lang="en">
+<td>
+<dl>
+<dd>You are free:
+<ul>
+<li><b>to share</b> – to copy, distribute and transmit the work</li>
+<li><b>to remix</b> – to adapt the work</li>
+</ul>
+</dd>
+<dd>Under the following conditions:
+<ul>
+<li><b>attribution</b> – You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).</li>
+<li><b>share alike</b> – If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</li>
+</ul>
+</dd>
+</dl>
+<p><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by-sa/3.0</span> <span class="licensetpl_short" style="display:none;">CC BY-SA 3.0</span> <span class="licensetpl_long" style="display:none;">Creative Commons Attribution-Share Alike 3.0</span> <span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20171116061600
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.064 seconds
+Real time usage: 0.196 seconds
+Preprocessor visited node count: 889/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14011/2097152 bytes
+Template argument size: 5044/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.009/10.000 seconds
+Lua memory usage: 827 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   78.762      1 -total
+ 78.60%   61.906      1 Template:Information
+ 38.49%   30.319      1 Template:ISOdate
+ 21.10%   16.616      1 Template:Self
+ 12.21%    9.617      1 Template:Years_since
+ 10.56%    8.317      1 Template:Cc-by-sa-3.0
+  8.72%    6.870      1 Template:Cc-by-sa-layout
+  5.66%    4.455      1 Template:IfNum
+  4.94%    3.887      1 Template:En
+  4.53%    3.569      1 Template:Parse_source
+-->
+</div>
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:31722467-1!canonical!math=5 and timestamp 20171116061600 and revision id 214312217
+ -->
+</div>
+<h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/0/00/2D_unit_balls.svg">02:28, 11 June 2014</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/0/00/2D_unit_balls.svg"><img alt="Thumbnail for version as of 02:28, 11 June 2014" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/2D_unit_balls.svg/120px-2D_unit_balls.svg.png" width="120" height="16" data-file-width="2250" data-file-height="300" /></a></td><td>2,250 × 300 <span style="white-space: nowrap;">(92 KB)</span></td><td>Waldir</td><td dir="ltr">simplify formula</td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/archive/0/00/20140611022805%212D_unit_balls.svg">06:48, 21 March 2014</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/0/00/20140611022805%212D_unit_balls.svg"><img alt="Thumbnail for version as of 06:48, 21 March 2014" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/0/00/20140611022805%212D_unit_balls.svg/120px-2D_unit_balls.svg.png" width="120" height="16" data-file-width="2250" data-file-height="300" /></a></td><td>2,250 × 300 <span style="white-space: nowrap;">(85 KB)</span></td><td>Waldir</td><td dir="ltr">User created page with UploadWizard</td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">File usage</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<div class="linkstoimage" id="linkstoimage">The following pages on the English Wikipedia link to this file (pages on other projects are not listed):</div>
+<ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Minkowski_distance" title="Minkowski distance">Minkowski distance</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Unit_sphere" title="Unit sphere">Unit sphere</a></li>
+</ul>
+</div>
+<h2 id="globalusage">Global file usage</h2>
+<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
+</p><ul>
+<li class='mw-gu-onwiki-ca_wikipedia_org'>Usage on ca.wikipedia.org
+<ul>	<li><a class="external" href="//ca.wikipedia.org/wiki/Dist%C3%A0ncia_de_Minkowski">Distància de Minkowski</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-it_wikipedia_org'>Usage on it.wikipedia.org
+<ul>	<li><a class="external" href="//it.wikipedia.org/wiki/Distanza_di_Minkowski">Distanza di Minkowski</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-tr_wikipedia_org'>Usage on tr.wikipedia.org
+<ul>	<li><a class="external" href="//tr.wikipedia.org/wiki/Birim_k%C3%BCre">Birim küre</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-vi_wikipedia_org'>Usage on vi.wikipedia.org
+<ul>	<li><a class="external" href="//vi.wikipedia.org/wiki/H%C3%ACnh_c%E1%BA%A7u_%C4%91%C6%A1n_v%E1%BB%8B">Hình cầu đơn vị</a></li>
+</ul></li>
+</ul>
+</div><h2 id="metadata">Metadata</h2>
+<div class="mw-imagepage-section-metadata">This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+If the file has been modified from its original state, some details may not fully reflect the modified file.<table id="mw_metadata" class="mw_metadata">
+<tr class="exif-imagewidth collapsable"><th>Width</th><td>2250</td></tr><tr class="exif-imagelength collapsable"><th>Height</th><td>300</td></tr></table>
+</div>
+</div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/File:2D_unit_balls.svg">https://en.wikipedia.org/wiki/File:2D_unit_balls.svg</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-userpage"><a href="/wiki/User:FJannidis" class="new" dir="auto" title="Your user page [.]" accesskey=".">FJannidis</a></li><li id="pt-notifications-alert"><a href="/wiki/Special:Notifications" class="mw-echo-notifications-badge mw-echo-notification-badge-nojs mw-echo-notifications-badge-all-read" data-counter-num="0" data-counter-text="0" title="Your alerts">Alerts (0)</a></li><li id="pt-notifications-notice"><a href="/wiki/Special:Notifications" class="mw-echo-notifications-badge mw-echo-notification-badge-nojs mw-echo-notifications-badge-all-read" data-counter-num="0" data-counter-text="0" title="Your notices">Notices (0)</a></li><li id="pt-mytalk"><a href="/wiki/User_talk:FJannidis" class="new" title="Your talk page [n]" accesskey="n">Talk</a></li><li id="pt-sandbox"><a href="/w/index.php?title=User:FJannidis/sandbox&amp;action=edit&amp;redlink=1&amp;preload=Template%3AUser+sandbox%2Fpreload" class="new" title="Your sandbox">Sandbox</a></li><li id="pt-preferences"><a href="/wiki/Special:Preferences" title="Your preferences">Preferences</a></li><li id="pt-betafeatures"><a href="/wiki/Special:Preferences#mw-prefsection-betafeatures" title="Beta features">Beta</a></li><li id="pt-watchlist"><a href="/wiki/Special:Watchlist" title="The list of pages you are monitoring for changes [L]" accesskey="L">Watchlist</a></li><li id="pt-mycontris"><a href="/wiki/Special:Contributions/FJannidis" title="A list of your contributions [y]" accesskey="y">Contributions</a></li><li id="pt-logout"><a href="/w/index.php?title=Special:UserLogout&amp;returnto=File%3A2D+unit+balls.svg" title="Log out">Log out</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+														<li id="ca-nstab-image" class="selected"><span><a href="/wiki/File:2D_unit_balls.svg" title="View the file page [c]" accesskey="c">File</a></span></li>
+							<li id="ca-talk" class="new"><span><a href="/w/index.php?title=File_talk:2D_unit_balls.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+														<li id="ca-view" class="collapsible selected"><span><a href="/wiki/File:2D_unit_balls.svg">Read</a></span></li>
+							<li id="ca-view-foreign" class="collapsible"><span><a href="https://commons.wikimedia.org/wiki/File:2D_unit_balls.svg">View on Commons</a></span></li>
+							<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=File:2D_unit_balls.svg&amp;action=edit" title="Edit this page [e]" accesskey="e">Add local description source</a></span></li>
+							<li id="ca-watch" class="collapsible icon mw-watchlink"><span><a href="/w/index.php?title=File:2D_unit_balls.svg&amp;action=watch" data-mw="interface" title="Add this page to your watchlist [w]" accesskey="w">Watch</a></span></li>
+						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/File:2D_unit_balls.svg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/w/index.php?title=File:2D_unit_balls.svg&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+											</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=File:2D_unit_balls.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":453,"wgHostname":"mw1322"});});</script>
+	</body>
+</html>
